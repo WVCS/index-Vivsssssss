@@ -22,10 +22,10 @@ h2:hover{
 
 nav{
   list-style-type: none; 
-  position: fixed:;
-   background-color: antiquewhite; 
-  top: 15;
-  width: 5%;
+  position: fixed;
+   background-color: #8FB082; 
+  top: 0;
+  width: 50%;
   left: 0;
 }
 li{
@@ -37,9 +37,8 @@ li:hover{
   background-color: yellow;
 }
 
-a {
+a{
  text-decoration: none;
   color: green;
 }
-
 }
