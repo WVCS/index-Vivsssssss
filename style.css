@@ -8,11 +8,11 @@ body {
 }
 
 img{
-  border: dashed 5px #474A2C;
+  border: dashed 10px #474A2C;
 }
 
 img:hover {
-  border: dotted 10px blue;
+  border: dashed 10px blue;
 }
 h2:hover{
   color: purple;
@@ -24,12 +24,12 @@ nav{
   position: fixed;
    background-color:  white; 
   top: 0;
-  width:5%;
+  width: 12%;
   left: 5;
 }
 li{
   display: inline;
-  padding; 4px;
+  paddin: 5px;
   float: left;
 }
 li:hover{
