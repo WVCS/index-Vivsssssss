@@ -29,7 +29,7 @@ nav{
 }
 li{
   display: inline;
-  paddin: 5px;
+  paddin: 8px;
   float: left;
 }
 li:hover{
