@@ -1,0 +1,94 @@
+<body>
+  <html>
+<nav>
+    <li><a href="index.html"> HOME </a></li>
+    <li><a href="page2.html"> Digital Notebook </a></li>
+    <li><a href="https://shrekshrekshrek.weebly.com/"> SHREKSHREKSHREK</a></li>
+  </nav>
+  <center>
+  
+  <h2> Characters </h2>
+  <table>
+    <tr>
+      <th> Main </th>
+      <th> Secondary </th>
+      <th> Minor </th>
+      </tr>
+    <tr>
+    <td> Shrek </td>
+    <td> Gingerbread Man</td>
+    <td> Muffin Man </td>
+    </tr>
+      <tr>
+    <td> Donkey </td>
+    <td> Three Blind Mice </td>
+    <td> Rumplestilskin </td>
+    </tr>
+      <tr>
+    <td> Princess Fiona </td>
+    <td> The three little pigs </td>
+    <td> Magic Mirror </td>
+    </tr>
+    <td> Dragon </td>
+    <td> Lord Farquaad </td>
+    <td> Humpty Dumpty </td>
+    </tr>
+  </table>
+  
+  </html>
+  <style>
+    h2 {
+  color: #592941; 
+  font-size: 55px;
+}
+
+body {
+  background-color: #A3CCB8;
+}
+
+img{
+  border: dashed 10px #474A2C;
+}
+
+img:hover {
+  border: dashed 10px blue;
+}
+h2:hover{
+  color: purple;
+  font-size: 55px;
+}
+
+nav{
+  list-style-type: none; 
+  position: fixed;
+   background-color: white; 
+  top: 0;
+  width: 12%;
+  left; 5;
+}
+li{
+  display: inline;
+  padding: 5px;
+  float: left;
+}
+li:hover{
+  background-color: orange;
+}
+
+a {
+ text-decoration: none;
+  color: green;
+}
+
+table, th, td, tr {
+  border: dashed #0C8346 6px;
+  border-collapse: collapse;
+  padding: 10px;
+}
+tr:nth-child(even){
+  background-color: #8FD5A6;
+}
+table{
+  width: 50%
+}
+</style>
